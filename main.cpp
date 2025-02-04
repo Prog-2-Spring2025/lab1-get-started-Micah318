@@ -15,3 +15,4 @@ int main() {
 	cout << "Prof Smith can Solo Goku no diff." << endl;
 	return 0; 
 }
+//Comment
