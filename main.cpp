@@ -11,6 +11,7 @@
  */ 
 
 int main() {
-	cout << "Hello Programming II"; 
+	cout << "Hello Programming II" << endl; 
+	cout << "Prof Smith can Solo Goku no diff." << endl;
 	return 0; 
 }
